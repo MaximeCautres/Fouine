@@ -1,0 +1,1 @@
+prInt 6; let x = 6 in prInt(x*7)

@@ -1,0 +1,18 @@
+\frametitle{Inconvénients}
+\pause
+Parfois c'est difficile à utiliser\pause, mais \ldots
+\begin{verbatim}
+man git branch
+\end{verbatim}
+\pause
+\begin{verbatim}
+man git merge
+\end{verbatim}
+\pause
+\begin{verbatim}
+man git
+\end{verbatim}
+\pause
+\begin{verbatim}
+man man
+\end{verbatim}

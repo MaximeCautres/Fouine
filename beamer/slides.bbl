@@ -1,0 +1,63 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{nty/global//global/global}
+  \entry{MALLYE2008187}{article}{}
+    \name{author}{3}{}{%
+      {{hash=MJB}{%
+         family={Mallye},
+         familyi={M\bibinitperiod},
+         given={Jean-Baptiste},
+         giveni={J\bibinithyphendelim B\bibinitperiod},
+      }}%
+      {{hash=CD}{%
+         family={Cochard},
+         familyi={C\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=LV}{%
+         family={Laroulandie},
+         familyi={L\bibinitperiod},
+         given={Véronique},
+         giveni={V\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MJBCDLV1}
+    \strng{fullhash}{MJBCDLV1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \verb{doi}
+    \verb https://doi.org/10.1016/j.annpal.2008.06.002
+    \endverb
+    \field{issn}{0753-3969}
+    \field{number}{3}
+    \field{pages}{187\bibrangedash 208}
+    \field{title}{Accumulations osseuses en périphérie de terriers de petits
+  carnivores : les stigmates de prédation et de fréquentation}
+    \verb{url}
+    \verb https://www.sciencedirect.com/science/article/pii/S0753396908000402
+    \endverb
+    \field{volume}{94}
+    \field{journaltitle}{Annales de Paléontologie}
+    \field{year}{2008}
+  \endentry
+\enddatalist
+\endinput

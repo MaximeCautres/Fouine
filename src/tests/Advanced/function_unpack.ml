@@ -1,0 +1,1 @@
+let f x = function y,z -> x+y+z in prInt( f 2 (3, 4))
